@@ -1,4 +1,24 @@
 {
   "schema": "classroom50/assignments/v1",
-  "assignments": []
+  "assignments": [
+    {
+      "slug": "notes",
+      "name": "설계 정리",
+      "description": "챕터별 설계 정리 개인 저장소 (ch01~, 정리양식.md 참고)",
+      "template": {
+        "owner": "studycamp-org",
+        "repo": "sysdesign-2-template",
+        "branch": "main"
+      },
+      "available_from": "2026-10-24T15:00:00Z",
+      "available_from_meta": {
+        "input": "2026-10-25T00:00:00+09:00",
+        "offset": "+09:00",
+        "source": "explicit-offset"
+      },
+      "mode": "individual",
+      "autograder": "default",
+      "repo_visibility": "public"
+    }
+  ]
 }
