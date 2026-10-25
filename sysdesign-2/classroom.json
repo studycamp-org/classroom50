@@ -1,0 +1,25 @@
+{
+  "schema": "classroom50/classroom/v1",
+  "name": "시스템설계_2",
+  "short_name": "sysdesign-2",
+  "term": "2026-H2",
+  "org": "studycamp-org",
+  "team": {
+    "id": 20300461,
+    "slug": "classroom50-sysdesign-2"
+  },
+  "teams": {
+    "teacher": {
+      "id": 20300462,
+      "slug": "classroom50-sysdesign-2-teacher"
+    },
+    "hta": {
+      "id": 20300463,
+      "slug": "classroom50-sysdesign-2-hta"
+    },
+    "ta": {
+      "id": 20300465,
+      "slug": "classroom50-sysdesign-2-ta"
+    }
+  }
+}
