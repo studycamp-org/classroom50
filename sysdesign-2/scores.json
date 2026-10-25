@@ -1,4 +1,30 @@
 {
   "schema": "classroom50/scores/v1",
-  "assignments": {}
+  "assignments": {
+    "notes": {
+      "type": "individual",
+      "entries": [
+        {
+          "owner": "rae-han",
+          "override": true,
+          "submissions": [
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "sysdesign-2",
+              "assignment_type": "individual",
+              "owner": "rae-han",
+              "submission": "submit/manual-2026-10-25T07-44-40Z",
+              "commit": "submit/manual-2026-10-25T07-44-40Z",
+              "release": "submit/manual-2026-10-25T07-44-40Z",
+              "review": "submit/manual-2026-10-25T07-44-40Z",
+              "datetime": "2026-10-25T07:44:40Z",
+              "score": 10,
+              "max-score": 10,
+              "tests": []
+            }
+          ]
+        }
+      ]
+    }
+  }
 }
