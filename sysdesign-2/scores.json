@@ -23,6 +23,26 @@
               "tests": []
             }
           ]
+        },
+        {
+          "owner": "ParkDongJo",
+          "override": true,
+          "submissions": [
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "sysdesign-2",
+              "assignment_type": "individual",
+              "owner": "ParkDongJo",
+              "submission": "submit/manual-2026-10-26T15-41-34Z",
+              "commit": "submit/manual-2026-10-26T15-41-34Z",
+              "release": "submit/manual-2026-10-26T15-41-34Z",
+              "review": "submit/manual-2026-10-26T15-41-34Z",
+              "datetime": "2026-10-26T15:41:34Z",
+              "score": 10,
+              "max-score": 10,
+              "tests": []
+            }
+          ]
         }
       ]
     }
