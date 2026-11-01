@@ -82,13 +82,6 @@ jobs:
           if [ -f .github/scripts/ensure_feedback_pr.py ]; then
             cp .github/scripts/ensure_feedback_pr.py _site/ensure_feedback_pr.py
           fi
-          # Landing page (static HTML/CSS/JS) published at the site root.
-          # Only files under .github/pages/ are copied; the page reads the
-          # already-public classrooms-index.json / assignments.json and the
-          # public GitHub API, so no roster or score data is exposed.
-          if [ -d .github/pages ]; then
-            cp -R .github/pages/. _site/
-          fi
           # Per-classroom config files, published under the classroom's
           # dest prefix (plain or secret-protected). classroom default
           # autograder (`<classroom>/autograder.py`) is published only when
