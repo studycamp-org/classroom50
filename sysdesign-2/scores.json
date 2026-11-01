@@ -43,6 +43,26 @@
               "tests": []
             }
           ]
+        },
+        {
+          "owner": "leetaehwan",
+          "override": true,
+          "submissions": [
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "sysdesign-2",
+              "assignment_type": "individual",
+              "owner": "leetaehwan",
+              "submission": "submit/manual-2026-11-01T00-55-58Z",
+              "commit": "submit/manual-2026-11-01T00-55-58Z",
+              "release": "submit/manual-2026-11-01T00-55-58Z",
+              "review": "submit/manual-2026-11-01T00-55-58Z",
+              "datetime": "2026-11-01T00:55:58Z",
+              "score": 10,
+              "max-score": 10,
+              "tests": []
+            }
+          ]
         }
       ]
     }
