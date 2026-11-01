@@ -63,6 +63,26 @@
               "tests": []
             }
           ]
+        },
+        {
+          "owner": "nashs789",
+          "override": true,
+          "submissions": [
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "sysdesign-2",
+              "assignment_type": "individual",
+              "owner": "nashs789",
+              "submission": "submit/manual-2026-11-01T00-56-09Z",
+              "commit": "submit/manual-2026-11-01T00-56-09Z",
+              "release": "submit/manual-2026-11-01T00-56-09Z",
+              "review": "submit/manual-2026-11-01T00-56-09Z",
+              "datetime": "2026-11-01T00:56:09Z",
+              "score": 10,
+              "max-score": 10,
+              "tests": []
+            }
+          ]
         }
       ]
     }
